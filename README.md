@@ -77,4 +77,5 @@ Este desafio coleta ofertas do Mercado Livre usando Selenium e exibe os produtos
 
       pip install webdriver-manager
 
+### 📌 Criar senha de superusuario para o Template
 
