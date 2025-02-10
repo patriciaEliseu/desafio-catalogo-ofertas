@@ -87,3 +87,5 @@ Desenvolvi o urls.py
 
 Comecei a desenvolver o Templates mas não consegui ainda terminar.
 
+Criei o Banco de dados mas não implementei a tabela products
+
