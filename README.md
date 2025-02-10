@@ -79,3 +79,11 @@ Este desafio coleta ofertas do Mercado Livre usando Selenium e exibe os produtos
 
 ### 📌 Criar senha de superusuario para o Template
 
+Desenvolvi o models;
+
+Desenvolvi o views;
+
+Desenvolvi o urls.py
+
+Comecei a desenvolver o Templates mas não consegui ainda terminar.
+
