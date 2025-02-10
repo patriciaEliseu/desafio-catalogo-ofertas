@@ -9,3 +9,7 @@ def list_products(request):
     if request.GET.get('full'):
         produtos = produtos.filter(entrega='Full')
     return render (request, 'list_products.html', {'produtos': produtos})
+
+
+
+
