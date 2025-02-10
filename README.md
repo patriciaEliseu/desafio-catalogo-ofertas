@@ -73,3 +73,8 @@ Este desafio coleta ofertas do Mercado Livre usando Selenium e exibe os produtos
 
       python3 manage.py migrate
 
+### 📌 Instalar o driver do Chrome(webDriver)
+
+      pip install webdriver-manager
+
+
